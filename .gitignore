@@ -1,0 +1,3 @@
+*.scssc
+scripts/.sass-cache/
+scripts/node_modules/
